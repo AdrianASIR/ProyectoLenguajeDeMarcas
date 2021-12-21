@@ -1,0 +1,47 @@
+<rss version="2.0">
+<channel>
+<!-- Prólogo -->
+<title>Instalaccion de software</title>
+<link> https://adrianasir.github.io/ProyectoLenguajeDeMarcas/</link>
+<description> Pagina de instalación de software </description>
+<category>Instalacion/Sofware</category>
+<copyright>1º ASIR - LMSGI</copyright>
+<language>es-es</language>
+<lastBuildDate>tue, 21 Dec 2021 12:35:00 +0100</lastBuildDate>
+<webMaster>caesad_aliesma20@iesmedinaazahara.es</webMaster>
+<!--  Noticias del canal  -->
+<item>
+<title>Portable</title>
+<description>En esta pagina aprenderemos de software portable</description>
+<link>https://adrianasir.github.io/ProyectoLenguajeDeMarcas/pages/portable.html</link>
+<author>caesad_aliesma20@iesmedinaazahara.es</author>
+<category>Instalacion</category>
+<!--<enclosure url="https://youtu.be/VupykmeN-xM" type="video" length="32572719"/>-->
+<pubDate>tue, 21 Dec 2021 12:35:00 +0100</pubDate>
+</item>
+<item>
+<title>ofimatico</title>
+<description>En esta pagina se vera la instalación de software ofimatico</description>
+<link>https://adrianasir.github.io/ProyectoLenguajeDeMarcas/pages/ofimatico.html</link>
+<author>caesad_aliesma20@iesmedinaazahara.es</author>
+<category>Instalacion</category>
+<pubDate>tue, 21 Dec 2021 12:42:00 +0100</pubDate>
+</item>
+<item>
+<title>recuperacion</title>
+<description>En esta pagina se vera la instalación de software software dedicado a la recuperación</description>
+<link>https://adrianasir.github.io/ProyectoLenguajeDeMarcas/pages/recuperacion.html</link>
+<author>caesad_aliesma20@iesmedinaazahara.es</author>
+<category>Instalacion</category>
+<pubDate>tue, 21 Dec 2021 12:45:00 +0100</pubDate>
+</item>
+<item>
+<title>seguridad</title>
+<description>En esta pagina se vera la instalación de software destinado a la seguridad de nuestro ordenador</description>
+<link>https://adrianasir.github.io/ProyectoLenguajeDeMarcas/pages/seguridad.html</link>
+<author>caesad_aliesma20@iesmedinaazahara.es</author>
+<category>Instalacion</category>
+<pubDate>tue, 21 Dec 2021 12:47:00 +0100</pubDate>
+</item>
+</channel>
+</rss>
