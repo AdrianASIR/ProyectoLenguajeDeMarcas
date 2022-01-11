@@ -1,0 +1,55 @@
+feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://adrianasir.github.io/ProyectoLenguajeDeMarcas/">
+<id>https://adrianasir.github.io/ProyectoLenguajeDeMarcas/</id>
+<title>Instalación de software</title>
+<updated>2022-01-11T12:49:00+01:00</updated>
+<link rel="alternate" href="https://adrianasir.github.io/ProyectoLenguajeDeMarcas/atom.xml"/>
+<author>
+<name>Adrian Carmona Escribano</name>
+<email>caesad_aliesma20@iesmedinaazahara.es</email>
+</author>
+<category term="software"/>
+<entry>
+<id>https://adrianasir.github.io/ProyectoLenguajeDeMarcas/pages/portable.html</id>
+<title>Instalacion software portable</title>
+<update>2022-01-11T12:58:00+01:00</update>
+<author>
+<name>Adrian Carmona Escribano</name>
+<email>caesad_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary> En esta pagina aprenderemos de software portable</summary>
+<link rel="alternate" href="https://adrianasir.github.io/ProyectoLenguajeDeMarcas/pages/portable.html"/>
+</entry>
+<entry>
+<id>https://adrianasir.github.io/ProyectoLenguajeDeMarcas/pages/ofimatico.html</id>
+<title>Instalacion software ofimatico</title>
+<update>2022-01-11T13:00:00+01:00</update>
+<author>
+<name>Adrian Carmona Escribano</name>
+<email>caesad_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary> En esta pagina aprenderemos de software ofimatico y su instalacion</summary>
+<link rel="alternate" href="https://adrianasir.github.io/ProyectoLenguajeDeMarcas/pages/ofimatico.html"/>
+</entry>
+<entry>
+<id>https://adrianasir.github.io/ProyectoLenguajeDeMarcas/pages/recuperacion.html</id>
+<title>Instalacion software de recuperacion</title>
+<update>2022-01-11T13:03:00+01:00</update>
+<author>
+<name>Adrian Carmona Escribano</name>
+<email>caesad_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary> En esta pagina aprenderemos de software dedicado a la recuperacion</summary>
+<link rel="alternate" href="https://adrianasir.github.io/ProyectoLenguajeDeMarcas/pages/recuperacion.html"/>
+</entry>
+<entry>
+<id>https://adrianasir.github.io/ProyectoLenguajeDeMarcas/pages/seguridad.html</id>
+<title>Instalacion software de seguridad</title>
+<update>2022-01-11T13:05:00+01:00</update>
+<author>
+<name>Adrian Carmona Escribano</name>
+<email>caesad_aliesma20@iesmedinaazahara.es</email>
+</author>
+<summary> En esta pagina aprenderemos de software dedicado a la seguridad de nuestro equipo</summary>
+<link rel="alternate" href="https://adrianasir.github.io/ProyectoLenguajeDeMarcas/pages/seguridad.html"/>
+</entry>
+</feed>
