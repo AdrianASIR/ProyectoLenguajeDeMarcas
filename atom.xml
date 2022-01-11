@@ -1,4 +1,4 @@
-feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://adrianasir.github.io/ProyectoLenguajeDeMarcas/">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://adrianasir.github.io/ProyectoLenguajeDeMarcas/">
 <id>https://adrianasir.github.io/ProyectoLenguajeDeMarcas/</id>
 <title>Instalación de software</title>
 <updated>2022-01-11T12:49:00+01:00</updated>
