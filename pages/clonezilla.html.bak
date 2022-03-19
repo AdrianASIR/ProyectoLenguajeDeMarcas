@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<script type="text/javascript" src="engine0/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+	<!--script type="text/javascript" src="engine1/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section --></head>
+<body>
+   <h1>Clonezilla</h1>
+    <p><b>¿Que es Clonezilla?</b></p>
+    <p>Clonezilla es un software libre de recuperación de una imagen creada de un sistema operativo, tiene diversas funcionalidades como crear una imagen del sistema o eliminarla o por ejemplo eliminar una partición.</p>
+    <p><b>¿Que otras opciones tenemos?</b></p>
+    <p>Reescuezilla, antes conocida como Redo Beackup and Recovry, es una de las mejores alternativas a la anterior para los que buscan algo con interfaz gráfica.</p>
+    <br>
+    <h3>Creación de la imagen</h3>
+   <p>Se va a aprender a crear una imagen de la informacion del sofware base dele equipo. Tras esto tambien aprenderemos a restaurarla.</p>
+   <p>Para esto necesitaremos el equipo del cual vamos a sacar la imagen y el quipo donde la queremos restaurar</p>
+   <h2>Inicio de la creacion</h2>
+   <p>Primero descargaremos clonezilla y tras esto con rufus el cual enseñamos a descargar en software portable lo instalaremos en nuestro usb. Lo conectaremos posteriormente en el equipo donde queremos sacar la imagen. Iniciaremos nuestro equipo mediante este usb. Para ello existen distintas maneras. En nuestro caso se puede seleccionar desde que se enciende pero en caso de que no salga se debra acceder a la BIOS. Tras esto seelccionaremos el clonezilla. Y empezaremos a configurar nuestras preferencias. Donde esta el idioma tipo de teclado. Tras esto seleccionamos start clonezilla</p>
+   <p>Seleccionaremos en este caso la opcion de Device-image. Tras esto le daremos a local-dev. Y seleccionaremos el lugar externo donde se guardara esta imagen ya que no se puede en el mismo equipo. Tras seleccionarlo nos dira si queremos chequearlo. Eso es decion ya de cada uno. Hecho esto pasaremos a la selecion de la ubicacion. Podemos elegir la que queramos pero recomiendo que recordeis esta para la recuperación. Selecionaremos tras esto el modo beginner y savedisk. Tras esto seleccionaremos el nombre y el disco como origen. Luego la compresion y otra vez si queremos escanear y comprobar la imagen. Tambien podemos cifrar o no esta. Tras esto solo debemos seleccionar si queremos apagar o reiniciar tras esto y tendremos ya todo hecho.</p>
+    <img src="Fotos/ofi1.png"  width="70%">
+    
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container0">
+	<div class="ws_images"><ul>
+		<li><img src="data0/images/20220203_093922.jpg" alt="20220203_093922" title="20220203_093922" id="wows0_0"/></li>
+		<li><img src="data0/images/20220203_093942.jpg" alt="20220203_093942" title="20220203_093942" id="wows0_1"/></li>
+		<li><img src="data0/images/20220203_093953.jpg" alt="20220203_093953" title="20220203_093953" id="wows0_2"/></li>
+		<li><img src="data0/images/20220203_094029.jpg" alt="20220203_094029" title="20220203_094029" id="wows0_3"/></li>
+		<li><img src="data0/images/20220203_094128.jpg" alt="20220203_094128" title="20220203_094128" id="wows0_4"/></li>
+		<li><img src="data0/images/20220203_094149.jpg" alt="20220203_094149" title="20220203_094149" id="wows0_5"/></li>
+		<li><img src="data0/images/20220203_094320.jpg" alt="20220203_094320" title="20220203_094320" id="wows0_6"/></li>
+		<li><img src="data0/images/20220203_094944.jpg" alt="20220203_094944" title="20220203_094944" id="wows0_7"/></li>
+		<li><img src="data0/images/20220203_095026.jpg" alt="20220203_095026" title="20220203_095026" id="wows0_8"/></li>
+		<li><img src="data0/images/20220203_095405.jpg" alt="20220203_095405" title="20220203_095405" id="wows0_9"/></li>
+		<li><img src="data0/images/20220203_100213.jpg" alt="20220203_100213" title="20220203_100213" id="wows0_10"/></li>
+		<li><img src="data0/images/20220203_100322.jpg" alt="20220203_100322" title="20220203_100322" id="wows0_11"/></li>
+		<li><img src="data0/images/20220203_100407.jpg" alt="20220203_100407" title="20220203_100407" id="wows0_12"/></li>
+		<li><img src="data0/images/20220203_100430.jpg" alt="20220203_100430" title="20220203_100430" id="wows0_13"/></li>
+		<li><img src="data0/images/20220203_101002.jpg" alt="20220203_101002" title="20220203_101002" id="wows0_14"/></li>
+		<li><img src="data0/images/20220203_101057.jpg" alt="20220203_101057" title="20220203_101057" id="wows0_15"/></li>
+		<li><img src="data0/images/20220203_1011340.jpg" alt="20220203_101134(0)" title="20220203_101134(0)" id="wows0_16"/></li>
+		<li><a href="http://wowslider.net"><img src="data0/images/20220203_101150.jpg" alt="image slider" title="20220203_101150" id="wows0_17"/></a></li>
+		<li><img src="data0/images/20220203_101935.jpg" alt="20220203_101935" title="20220203_101935" id="wows0_18"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="20220203_093922"><span><img src="data0/tooltips/20220203_093922.jpg" alt="20220203_093922"/>1</span></a>
+		<a href="#" title="20220203_093942"><span><img src="data0/tooltips/20220203_093942.jpg" alt="20220203_093942"/>2</span></a>
+		<a href="#" title="20220203_093953"><span><img src="data0/tooltips/20220203_093953.jpg" alt="20220203_093953"/>3</span></a>
+		<a href="#" title="20220203_094029"><span><img src="data0/tooltips/20220203_094029.jpg" alt="20220203_094029"/>4</span></a>
+		<a href="#" title="20220203_094128"><span><img src="data0/tooltips/20220203_094128.jpg" alt="20220203_094128"/>5</span></a>
+		<a href="#" title="20220203_094149"><span><img src="data0/tooltips/20220203_094149.jpg" alt="20220203_094149"/>6</span></a>
+		<a href="#" title="20220203_094320"><span><img src="data0/tooltips/20220203_094320.jpg" alt="20220203_094320"/>7</span></a>
+		<a href="#" title="20220203_094944"><span><img src="data0/tooltips/20220203_094944.jpg" alt="20220203_094944"/>8</span></a>
+		<a href="#" title="20220203_095026"><span><img src="data0/tooltips/20220203_095026.jpg" alt="20220203_095026"/>9</span></a>
+		<a href="#" title="20220203_095405"><span><img src="data0/tooltips/20220203_095405.jpg" alt="20220203_095405"/>10</span></a>
+		<a href="#" title="20220203_100213"><span><img src="data0/tooltips/20220203_100213.jpg" alt="20220203_100213"/>11</span></a>
+		<a href="#" title="20220203_100322"><span><img src="data0/tooltips/20220203_100322.jpg" alt="20220203_100322"/>12</span></a>
+		<a href="#" title="20220203_100407"><span><img src="data0/tooltips/20220203_100407.jpg" alt="20220203_100407"/>13</span></a>
+		<a href="#" title="20220203_100430"><span><img src="data0/tooltips/20220203_100430.jpg" alt="20220203_100430"/>14</span></a>
+		<a href="#" title="20220203_101002"><span><img src="data0/tooltips/20220203_101002.jpg" alt="20220203_101002"/>15</span></a>
+		<a href="#" title="20220203_101057"><span><img src="data0/tooltips/20220203_101057.jpg" alt="20220203_101057"/>16</span></a>
+		<a href="#" title="20220203_101134(0)"><span><img src="data0/tooltips/20220203_1011340.jpg" alt="20220203_101134(0)"/>17</span></a>
+		<a href="#" title="20220203_101150"><span><img src="data0/tooltips/20220203_101150.jpg" alt="20220203_101150"/>18</span></a>
+		<a href="#" title="20220203_101935"><span><img src="data0/tooltips/20220203_101935.jpg" alt="20220203_101935"/>19</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">slideshow html code</a> by WOWSlider.com v9.0</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine0/wowslider.js"></script>
+	<script type="text/javascript" src="engine0/script.js"></script>
+	<!-- End WOWSlider.com BODY section --><h2>Restauración de imagen</h2>
+    <p>Tras esto podemos restaurar esta imagen. Para ello seguiremos los mismos pasos anteriores pero seleccionaremos restoredisk en vez de savedisk. Tendremos que seleccionar tambien el nombre de esta en la ubicación donde estaba. Y el destino donde restaurar esta. Luego se seguiran los mismos pasos que antes y tendremos la restauracion completa.</p>
+    <img src="Fotos/ofi2.png"  width="70%">
+    
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container1">
+	<div class="ws_images"><ul>
+		<li><img src="data1/images/20220203_105056.jpg" alt="20220203_105056" title="20220203_105056" id="wows1_0"/></li>
+		<li><img src="data1/images/20220203_105119.jpg" alt="20220203_105119" title="20220203_105119" id="wows1_1"/></li>
+		<li><img src="data1/images/20220203_105136.jpg" alt="20220203_105136" title="20220203_105136" id="wows1_2"/></li>
+		<li><img src="data1/images/20220203_105202.jpg" alt="20220203_105202" title="20220203_105202" id="wows1_3"/></li>
+		<li><a href="http://wowslider.net"><img src="data1/images/20220203_105210.jpg" alt="html5 slider" title="20220203_105210" id="wows1_4"/></a></li>
+		<li><img src="data1/images/20220203_104956.jpg" alt="20220203_104956" title="20220203_104956" id="wows1_5"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#wows1_0" title="20220203_105056"><span><img src="data1/tooltips/20220203_105056.jpg" alt="20220203_105056"/>1</span></a>
+		<a href="#wows1_1" title="20220203_105119"><span><img src="data1/tooltips/20220203_105119.jpg" alt="20220203_105119"/>2</span></a>
+		<a href="#wows1_2" title="20220203_105136"><span><img src="data1/tooltips/20220203_105136.jpg" alt="20220203_105136"/>3</span></a>
+		<a href="#wows1_3" title="20220203_105202"><span><img src="data1/tooltips/20220203_105202.jpg" alt="20220203_105202"/>4</span></a>
+		<a href="#wows1_4" title="20220203_105210"><span><img src="data1/tooltips/20220203_105210.jpg" alt="20220203_105210"/>5</span></a>
+		<a href="#wows1_5" title="20220203_104956"><span><img src="data1/tooltips/20220203_104956.jpg" alt="20220203_104956"/>6</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">slideshow html code</a> by WOWSlider.com v9.0</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine1/wowslider.js"></script>
+	<script type="text/javascript" src="engine1/script.js"></script>
+	<!-- End WOWSlider.com BODY section --><h2>Clonación de imagen en servidos remoto</h2>
+    <p>Lo primero sera crear una carpeta compartida en el equipo donde queremos la imagen. Esta carpeta debera tener permisos avanzados para esto.</p>
+    <p>Se empezara de la misma manera que anteriormente pero esta vez se seleccionara samba_server en vez de local_dev. En este caso seleccionaremos el dhcp y indicaremos la Ip del equipo donde queremos almacenar esta. Esta puede ser comprobada de distintas maneras dependiendo del sistema operativo que tengas. Se puede seleccionar un dominio si cuentas con el y sino darle a cancelar. Elegiremos la cuenta en la que guardarlo y introducimos la carpeta que tenemos compartida. Nos darra a elegir las distitnas versiones y usaremos la Auto en esto y la seguridad. Luego introduciremos nuestra contraseña y con esto ya comenzara nuestra creacion de imagen.</p>
+     <img src="Fotos/ofi3.png"  width="70%">
+
+
+
+
+
+  </article>
+</section>
+
+</body>
+</html>
